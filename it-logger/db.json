@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "message": "ne gi ispi apcinata..",
+      "attention": false,
+      "tech": "dame grdoto",
+      "date": "2020-03-24T22:19:54.257Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "gi popraj linite",
+      "attention": false,
+      "tech": "bobo mrtvoto",
+      "date": "2020-03-25T14:45:28.732Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Tino",
+      "lastName": "Talevski"
+    },
+    {
+      "id": 2,
+      "firstName": "bobo",
+      "lastName": "mrtvoto"
+    },
+    {
+      "id": 3,
+      "firstName": "dame",
+      "lastName": "grdoto"
+    }
+  ]
+}
